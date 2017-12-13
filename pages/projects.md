@@ -1,19 +1,17 @@
 ---
 layout: page
-title: labs & assignments
-description: Ben Harvey's assignments
+title: Projects
+description: All Projects
 ---
 
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Assignment1">Assignment1</a></li>
-            <li><a href="#Assignment2">Assignment2</a></li>
-            <li><a href="#Assignment3">Assignment3</a></li>
-            <li><a href="#Assignment4">Assignment4</a></li>
-            <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
-            <li><a href="#labassignments">Lab Assignments</a></li>
+            <li><a href="#">CAPITAL Tools for Adult Literacy</a></li>
+            <li><a href="#">Semantic Search 3000</a></li>
+            <li><a href="#">Yelp Business Recommendation System</a></li>
+            <!-- <li><a href="#Assignment4">Assignment4</a></li> -->
         </ul>
     </div>
 </div>
