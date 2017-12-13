@@ -1,6 +1,6 @@
 ---
 layout: page
-title: courses
+title: Courses
 description: Student's Courses
 ---
 
