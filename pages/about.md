@@ -19,7 +19,7 @@ Technical Track: Data Science and Big Data Analytics
 <!-- #### <a name="researchbackground"></a>research background -->
 <!-- {Insert text here} -->
 
-<br><br>
+<br>
 #### <a name="cvandresume"></a>Resume
 <!-- [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf) -->
 [Resume ![Resume as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/resume_summer2017.docx.pdf)
