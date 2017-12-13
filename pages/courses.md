@@ -59,6 +59,7 @@ description: Student's Courses
 
 #### <a name="compsci"></a>Computer Science
 
+###### Capstone Design Project II
 ###### Algorithms
 ###### Software Engineering
 ###### Probability for Computer Science
