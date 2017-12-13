@@ -17,19 +17,21 @@ description: All Projects
 </div>
 
 
-### University Projects
+## University Projects
 ####  <a name="capital"></a>CAPITAL Tools for Adult Literacy
 ###### (CSCI 4244 Capstone Design Project II; George Washington University, Spring 2018)
+<br></br><br></br>
 
 
 #### <a name="ss3k"></a>Semantic Search 3000
 ###### (CSCI 6907 Intro to Stat NLP; George Washington University, Fall 2017)
-
+<br></br><br></br>
 
 #### <a name="yelp"></a>Yelp Business Recommendation System
 ###### (COSE471 Data Science; Korea University, Spring 2017)
+<br></br><br></br>
 
-### <a name="personal"></a>Personal Projects
+## <a name="personal"></a>Personal Projects
 
 
 ---
