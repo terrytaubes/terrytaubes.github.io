@@ -53,6 +53,7 @@ description: Student's Courses
 - Hypothesis Testing
 - Analysis in SAS
 
+###### Statistical Computing Packages (STAT 2183; George Washington University, 2018)
 
 ###### Machine Learning (Online; Stanford University, Coursera Certificate)
 ######
