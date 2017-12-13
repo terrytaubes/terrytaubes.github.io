@@ -7,8 +7,9 @@ description: Student's Presentations in Data Analytics
 
 ###  2017
 
-#### CSCI 6907 Final Project: Semantic Search 3000
-###### > LSA-Based Research Tool for Information and Document Retrieval
+#### CSCI 6907 Intro to Stat NLP:
+###### Final Project: Semantic Search 3000
+######   > LSA-Based Research Tool for Information and Document Retrieval
 <br/>&nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Final%20Project%20Presentation.pdf)
 
