@@ -7,18 +7,17 @@ description: Student's Courses
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#current">current courses</a></li>
-            <li><a href="#shortcourses">short courses</a></li>
-            <li><a href="#misc">misc lectures</a></li>
-            <li><a href="#old">former courses</a></li>
+            <li><a href="#ds">data science</a></li>
+            <li><a href="#compsci">computer science</a></li>
+            <li><a href="#it">information technology</a></li>
         </ul>
     </div>
 </div>
 
 
-## <a name="current"></a>University Coursework
+## University Coursework
 ---
-#### Data Science, Data Analytics, Machine Learning
+#### <a name="ds"></a>Data Science, Data Analytics, Machine Learning
 
 ###### Data Science (COSE471; Korea University, 2017)
 - Big Data in Python 
@@ -58,7 +57,7 @@ description: Student's Courses
 ###### Machine Learning (Online; Stanford University, Coursera Certificate)
 ---
 
-#### Computer Science
+#### <a name="compsci"></a>Computer Science
 
 ###### Algorithms
 ###### Software Engineering
@@ -69,7 +68,7 @@ description: Student's Courses
 ###### Systems Programming
 ---
 
-#### Information Technology
+#### <a name="it"></a>Information Technology
 
 ###### Python Programs and Database Applications (ISTM 6200; George Washington University, 2018)
 ###### Management Information Systems Technology (BUSS215; Korea University, 2017)
