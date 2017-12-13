@@ -17,7 +17,7 @@ description: Student's Courses
 
 
 ## <a name="current"></a>University Coursework
-
+---
 #### Data Science, Data Analytics, Machine Learning
 
 ###### Data Science (COSE471; Korea University, 2017)
@@ -56,7 +56,7 @@ description: Student's Courses
 ###### Statistical Computing Packages (STAT 2183; George Washington University, 2018)
 
 ###### Machine Learning (Online; Stanford University, Coursera Certificate)
-######
+---
 
 #### Computer Science
 
@@ -67,7 +67,7 @@ description: Student's Courses
 ###### Operating Systems
 ###### Computer Architecture
 ###### Systems Programming
-######
+---
 
 #### Information Technology
 
