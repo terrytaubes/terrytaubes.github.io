@@ -54,7 +54,7 @@ description: Student's Courses
 
 ###### Statistical Computing Packages (STAT 2183; George Washington University, 2018)
 
-###### Machine Learning (Online; Stanford University, Coursera Certificate)
+###### Machine Learning (Coursera; Stanford University, Online Certificate)
 ---
 
 #### <a name="compsci"></a>Computer Science
