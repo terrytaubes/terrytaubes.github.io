@@ -1,17 +1,16 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+title: Terrance Taubes
+description: Terrance Taubes is a B.S. Computer Science student at the George Washington University, focusing in Data Science and Analytics.
+keywords: statistics, data analytics, big data, data science, machine learning
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/resume_summer2017.docx.pdf">Resume</a></li>
+          <li><a href="https://github.com/terrytaubes">github</a></li>
+          <li><a href="https://www.linkedin.com/in/terrance-taubes/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
