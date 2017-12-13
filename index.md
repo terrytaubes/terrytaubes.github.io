@@ -26,7 +26,7 @@ keywords: statistics, data analytics, big data, data science, machine learning
   </td>
   <td class="right">
     <a href="#">
-        <img src="assets/publpics/portfolioDendro.png" alt="Tian et
+        <img src="assets/publpics/portfolioDendro.PNG" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
   </td>
@@ -34,19 +34,19 @@ keywords: statistics, data analytics, big data, data science, machine learning
 <tr>
   <td class="left">
     <a href="#">
-        <img src="assets/publpics/portfolioSAS.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/publpics/portfolioSAS.PNG" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
     <a href="#">
-        <img src="assets/publpics/portfolioFreq.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+        <img src="assets/publpics/portfolioFreq.PNG" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="#">
-        <img src="assets/publpics/portfolioKmeans.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/publpics/portfolioKmeans.PNG" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
 </tr>
