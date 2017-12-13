@@ -21,7 +21,7 @@ keywords: statistics, data analytics, big data, data science, machine learning
 <tr>
   <td class="left">
     <a href="#">
-        <img src="assets/publpics/portfolioKmeans.PNG" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/publpics/portfolioSS3k.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
@@ -39,7 +39,7 @@ keywords: statistics, data analytics, big data, data science, machine learning
   </td>
   <td class="right">
     <a href="#">
-        <img src="assets/publpics/portfolioSS3k.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+        <img src="assets/publpics/portfolioKmeans.PNG" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
