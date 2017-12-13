@@ -20,12 +20,12 @@ keywords: statistics, data analytics, big data, data science, machine learning
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
+    <a href="#">
         <img src="assets/publpics/portfolioSS3k.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
+    <a href="#">
         <img src="assets/publpics/portfolioDendro.png" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
@@ -33,19 +33,19 @@ keywords: statistics, data analytics, big data, data science, machine learning
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
+    <a href="#">
         <img src="assets/publpics/portfolioSAS.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
+    <a href="#">
         <img src="assets/publpics/portfolioFreq.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
+    <a href="#">
         <img src="assets/publpics/portfolioKmeans.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
