@@ -22,12 +22,12 @@ description: Student's Courses
 
 ###### Data Science (COSE471; Korea University, 2017)
 - Big Data in Python 
-- Machine Learning theory and model building
+- Machine Learning Theory and Model Building
 - Final: [Yelp Business Recommendation System](http://www.google.com)
 
 ###### Understanding Machine Learning and its Applications (GEST141; Korea University, 2017)
-- Machine Learning theory
-- Machine Learning philosophy
+- Machine Learning Theory
+- Machine Learning Philosophy
 
 ###### Applications of Mathematical Programs (GEQR070; Korea University, 2017)
 - Data Processing, Data Visualization in Python
@@ -37,23 +37,25 @@ description: Student's Courses
 ###### Big Data and Analytics (CSCI 6444; George Washington University, 2017)
 - Big Data in R
 - Text Analytics in R
-- Data Visualization
+- Data Visualization in R
 - Analytic Process and Cycle
 
 ###### Intro to Statistical NLP (CSCI 6907; George Washington University, 2017)
 - Natural Language Processing in Python
-- Text Processing, Manipulation, and Analytics in Python
+- Text Processing, Wrangling, and Analytics in Python
 - Linguistic Model Building
+- Command Line NLP Packages
 - Final: [Semantic Search 3000](http://www.google.com)
 
 ###### Regression Analysis (STAT 2118; George Washington University, 2017)
 - Inferential Statistics
-- Statistical Testing and Analysis
+- Linear Regression Model Building and Analysis
+- Hypothesis Testing
 - Analysis in SAS
 
 
-###### Machine Learning (Online; Coursera)
-
+###### Machine Learning (Online; Stanford University, Coursera Certificate)
+######
 
 #### Computer Science
 
@@ -64,7 +66,7 @@ description: Student's Courses
 ###### Operating Systems
 ###### Computer Architecture
 ###### Systems Programming
-
+######
 
 #### Information Technology
 
