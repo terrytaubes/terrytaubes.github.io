@@ -6,11 +6,11 @@ description: about me
 
 #### <a name="education"></a>Education
 Undergraduate Senior at The George Washington University.
-<br>
+<br></br>
 B.S. in Computer Science  -  May 2018
-<br>
+<br></br>
 Technical Track: Data Science and Big Data Analytics
-</br>
+<br></br>
 <!-- #### <a name="currentposition"></a>current position -->
 
 <!-- #### <a name="previousposition"></a>previous positions -->
