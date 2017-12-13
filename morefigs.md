@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Terrance Taubes
 ---
 
 <div class="navbar">
