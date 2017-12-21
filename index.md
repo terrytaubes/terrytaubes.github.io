@@ -9,7 +9,7 @@ keywords: statistics, data analytics, big data, data science, machine learning
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/resume_winter2017.docx-3.pdf">Resume</a></li>
-          <li><a href="https://github.com/terrytaubes">github</a></li>
+          <li><a href="https://github.com/terrytaubes">GitHub</a></li>
           <li><a href="https://www.linkedin.com/in/terrance-taubes/">LinkedIn</a></li>
       </ul>
   </div>
