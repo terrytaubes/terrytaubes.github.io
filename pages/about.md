@@ -11,10 +11,10 @@ May 2018 - Present
 <br>
 FINRA, Rockville MD
 <br>
-- Extracting data from enterprise databases
-- Building Tableau dashboard
-- Development of database ASERT to automate continuous auditing processes
-- Recreation of several department databases in AWS
+- Extracting data from enterprise databases using SQL
+- Building Tableau dashboards
+- Development of new database "ASERT" to automate auditing processes previously performed by the auditing team
+- Recreation of several department databases in AWS using Java and AngularJS
 <br>
 
 ### <a name="education"></a>Education
