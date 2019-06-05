@@ -11,8 +11,8 @@ May 2018 - Present
 <br>
 FINRA, Rockville MD
 <br>
-- Extracting data from enterprise databases using SQL
-- Building Tableau dashboards
+- Extracting data from enterprise databases using SQL and preparing the data for the auditing team
+- Building Tableau dashboards for the purposes of analyzing audit data
 - Development of new database "ASERT" to automate auditing processes previously performed by the auditing team
 - Recreation of several department databases in AWS using Java and AngularJS
 <br>
