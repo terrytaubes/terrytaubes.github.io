@@ -4,6 +4,19 @@ title: About
 description: about me
 ---
 
+### <a name="experience"></a>Experience
+May 2018 - Present
+<br>
+<b>Data Analyst</b>
+<br>
+FINRA, Rockville MD
+<br>
+- Extracting data from enterprise databases
+- Building Tableau dashboard
+- Development of database ASERT to automate continuous auditing processes
+- Recreation of several department databases in AWS
+<br>
+
 ### <a name="education"></a>Education
 May 2020
 <br>
