@@ -5,13 +5,11 @@ description: about me
 ---
 
 #### <a name="education"></a>Education
-Graduate Certificate in Business Analytics - May 2020
+<b>Graduate Certificate in Business Analytics - May 2020<b>
 <br>
 The George Washington University - School of Business
 <br><br>
-B.S. in Computer Science  -  May 2018
-<br>
-- Technical Track: Data Science and Big Data Analytics
+B.S. in Computer Science, Technical Track: Data Science  -  May 2018
 <br>
 The George Washington University - School of Engineering and Applied Science
 <br>
