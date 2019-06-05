@@ -5,11 +5,18 @@ description: Student's Presentations in Data Analytics
 ---
 
 
-###  2017
+###  Domains of Interest, Self-Learning
 
-#### CSCI 6907 Intro to Stat NLP:
-###### Final Project: Semantic Search 3000
-######   > LSA-Based Research Tool for Information and Document Retrieval
+- Mathematics
+- Physics, Geophysics, Astrophysics
+- Statistical Learning
+- Geostatistics, Spatial analysis, GIS
+- Computer Hardware / History of Computer Hardware
+- Quantum Computing
+
+
+
+
 <br/>&nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Final%20Project%20Presentation.pdf)
 
