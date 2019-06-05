@@ -4,12 +4,16 @@ title: About
 description: about me
 ---
 
-#### <a name="education"></a>Education
-<b>Graduate Certificate in Business Analytics - May 2020<b>
+### <a name="education"></a>Education
+May 2020
+<br>
+<b>Graduate Certificate in Business Analytics</b>
 <br>
 The George Washington University - School of Business
 <br><br>
-B.S. in Computer Science, Technical Track: Data Science  -  May 2018
+May 2018
+<br>
+<b>B.S. in Computer Science, Technical Track: Data Science  -  May 2018</b>
 <br>
 The George Washington University - School of Engineering and Applied Science
 <br>
